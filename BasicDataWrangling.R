@@ -1,6 +1,10 @@
 # 3.2 Basic Data Wrangling
 # introducing the dplyr package
 
+install.packages("dslabs")
+#library(dslabs)
+
+
 # install dplyr package
 install.packages("dplyr")
 
